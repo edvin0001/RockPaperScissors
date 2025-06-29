@@ -21,3 +21,6 @@ A simple Python console game where you play Rock, Paper, Scissors against the co
 
 ## Example
 
+Enter your choice: (1) for Rock, (2) for Paper, (3) for Scissors. Type 'exit' to quit: 2
+You chose Paper. The computer chose Rock.
+You win!
